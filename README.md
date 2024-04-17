@@ -1,2 +1,2 @@
 # Vetores-Linguagem-C
-Ainda não terminada
+Lista de exercícios sobre Vetores na linguagem C
